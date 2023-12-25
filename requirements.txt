@@ -1,3 +1,4 @@
 wget
 bs4
 requests
+colorama
