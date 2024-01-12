@@ -43,7 +43,7 @@ def checkfolder():
         os.mkdir("./downloads")
 
 def menu():
-    print(Fore.CYAN + "\n 1. download vidoe")
+    print(Fore.CYAN + "\n 1. download video")
     print(" 2. download more videos from a file")
     print(" 3. exit" + Fore.RESET)
 
